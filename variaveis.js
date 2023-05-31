@@ -21,3 +21,4 @@ console.log(variavel)
 
 const constante = 100
 console.log(constante)
+
